@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Astabeth
-- 👀 I’m interested in teaching students game design basics
+- 👀 I’m interested in teaching game design basics to high school students
 - 🌱 I’m currently learning GMS2 (I'm used to GameMaker for Mac) and Unity
 - 💞️ I’m looking to collaborate on learning to use GitHub
 - 📫 How to reach me astabeth@gmail.com
